@@ -1,4 +1,4 @@
-## The ePorfolio serves an important role in demonstrating my skills that I acquired through the degree. Outside of the artifacts, I have learned to write code in different languages including _Java Script, Python, C++_ and _assembly language_, learned to adhere to the _secure coding practice_, learned about _Software Development Life Cycle_, and _designing UI_.  
+### The ePorfolio serves an important role in demonstrating my skills that I acquired through the degree. Outside of the artifacts, I have learned to write code in different languages including _Java Script, Python, C++_ and _assembly language_, learned to adhere to the _secure coding practice_, learned about _Software Development Life Cycle_, and _designing UI_.  
 
 :one:Through CS 302, I learned **Software Development Life Cycle**. After the program, I am able to differentiate Agile framework vs traditional framework such as waterfall model. The course also taught me the importance of close collaboration with clients and how it can impact on a project such as financial loss from rebuilding software. 
 
@@ -8,7 +8,7 @@
 
 :four:Through CS 305, I learned how to **securely program** a code. In the course, I remediated various vulnerabilities found on CVE and NVD. I also learned common security vulnerabilities such as input validation and HTTP requests. Security is often overlooked, but I was able to have proper remediation and assessment of code with national security databases. 
 
-## The three artifacts are meant to showcase my skills required for the career-path I want to take. During my career, I had an opportunity to work with SQL databases for two years. Ever since, this became my career goal. I want to pursue my career as a database administrator.
+### The three artifacts are meant to showcase my skills required for the career-path I want to take. During my career, I had an opportunity to work with SQL databases for two years. Ever since, this became my career goal. I want to pursue my career as a database administrator.
 
 [The first artifact](https://github.com/ellentakada/CS-499-ePortfolio/blob/main/CS499%20Artifact%201%20Android%20App.zip) is an Android app from CS 360. Firstly, I collected feedback from test users about the initial app, which applies to the requirements phase in SDLC. I then analyzed and determined the enhancement, implemented it, tested it, and another round of feedback for final assessment. This demonstrates my understanding in SDLC and my ability to follow it while developing software. Secondly, I proved my proficiency in Android app as well as coding in _JavaScript_ and _xml_. In the app, I was able to make the enhancements the way I wanted, including adding screens and new features. Thirdly, I proved my ability to incorporate feedback into software and to make the app more modern and easy to navigate.  
 
